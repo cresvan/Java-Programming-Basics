@@ -1,0 +1,14 @@
+#main {
+  width: 34%;
+  background-color: #ddffdd;
+}
+aside {
+  width: 33%;
+  background-color: #ffddff;
+}
+
+#wrapper {
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+}

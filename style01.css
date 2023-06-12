@@ -1,0 +1,16 @@
+#main {
+	width: 60%;
+	background-color: rgb(255, 255, 0);
+}
+
+aside {
+	width: 30%;
+	background-color: rgb(255, 255, 0);
+}
+
+#wrapper {
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+

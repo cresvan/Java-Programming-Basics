@@ -1,0 +1,24 @@
+#main {
+  width: 34%;
+  background-color: #ddffdd;
+  float: left;
+}
+aside {
+  width: 33%;
+  background-color: #ffddff;
+  float: right;
+}
+
+#wrapper {
+    height: 50px;
+}
+
+
+/*clear プロパティは、直前のfloatを解除するためのプロパティです。clear プロパティの値はほとんどの場合 both */
+.clear {
+	clear: both;
+}
+
+footer {
+	 margin-top: auto;
+}

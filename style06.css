@@ -1,0 +1,21 @@
+#main {
+  width: 34%;
+  background-color: #ddffdd;
+  float: left;
+}
+aside {
+  width: 33%;
+  background-color: #ffddff;
+  float: right;
+}
+
+#wrapper {
+    height: 50px;
+}
+
+/*clearfixのCSSは、先ほどのclear(空のdiv)とまったく同じです。*/
+.clearfix::after {
+    content: '---';
+    display: block;
+    clear: both;
+}

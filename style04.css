@@ -1,0 +1,10 @@
+nav ul li a {
+        background-color : pink;
+        display: inline-block;
+        position: fixed;
+}
+
+.long-content {
+	height: 1000px
+}
+
